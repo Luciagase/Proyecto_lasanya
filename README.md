@@ -1,5 +1,3 @@
-# Proyecto_lasanya
-Proyecto basicode ing mat
 Introduction
 Python is a dynamic and strongly typed object-oriented programming language. It employs both duck typing and gradual typing, via type hints. Programming across paradigms is fully supported -- but internally, everything in Python is an object.
 
@@ -169,14 +167,6 @@ You have five tasks, all related to cooking your recipe.
 Task 1
 Define expected bake time in minutes
 
-Define an EXPECTED_BAKE_TIME constant that returns how many minutes the lasagna should bake in the oven. According to your cookbook, the Lasagna should be in the oven for 40 minutes:
-
->>> import lasagna
->>> lasagna.EXPECTED_BAKE_TIME
-40
-
-Stuck? Reveal Hints
-Opens in a modal
 Task 2
 Calculate remaining bake time in minutes
 
